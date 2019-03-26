@@ -1,0 +1,100 @@
+btc	#btc	$btc	@btc	bitcoin	#bitcoin	$bitcoin	@bitcoin
+eth	#eth	$eth	@eth	ethereum	#ethereum	$ethereum	@ethereum
+powr	#powr	$powr	@powr	power ledger	#powerledger	$powerledger	@powerledger	power-ledger	#power-ledger	$power-ledger	@power-ledger
+gas	#gas	$gas	@gas
+knc	#knc	$knc	@knc	kyber network	#kybernetwork	$kybernetwork	@kybernetwork	kyber-network	#kyber-network	$kyber-network	@kyber-network
+nxs	#nxs	$nxs	@nxs	nexus	#nexus	$nexus	@nexus
+lrc	#lrc	$lrc	@lrc	loopring	#loopring	$loopring	@loopring
+xzc	#xzc	$xzc	@xzc	zcoin	#zcoin	$zcoin	@zcoin
+ela	#ela	$ela	@ela	elastos	#elastos	$elastos	@elastos
+etn	#etn	$etn	@etn	electroneum	#electroneum	$electroneum	@electroneum
+btcp	#btcp	$btcp	@btcp	bitcoin private	#bitcoinprivate	$bitcoinprivate	@bitcoinprivate	bitcoin-private	#bitcoin-private	$bitcoin-private	@bitcoin-private
+pivx	#pivx	$pivx	@pivx
+theta	#theta	$theta	@theta	theta token	#thetatoken	$thetatoken	@thetatoken	theta-token	#theta-token	$theta-token	@theta-token
+mco	#mco	$mco	@mco	crypto.com	#crypto.com	$crypto.com	@crypto.com	crypto-com	#crypto-com	$crypto-com	@crypto-com
+gxs	#gxs	$gxs	@gxs	gxchain	#gxchain	$gxchain	@gxchain
+nxt	#nxt	$nxt	@nxt
+drgn	#drgn	$drgn	@drgn	dragonchain	#dragonchain	$dragonchain	@dragonchain
+cmt	#cmt	$cmt	@cmt	cybermiles	#cybermiles	$cybermiles	@cybermiles
+wax	#wax	$wax	@wax
+xin	#xin	$xin	@xin	mixin	#mixin	$mixin	@mixin
+nas	#nas	$nas	@nas	nebulas	#nebulas	$nebulas	@nebulas	nebulas-token	#nebulas-token	$nebulas-token	@nebulas-token
+dgd	#dgd	$dgd	@dgd	digixdao	#digixdao	$digixdao	@digixdao
+mona	#mona	$mona	@mona	monacoin	#monacoin	$monacoin	@monacoin
+bnt	#bnt	$bnt	@bnt	bancor	#bancor	$bancor	@bancor
+zen	#zen	$zen	@zen	horizen	#horizen	$horizen	@horizen	zencash	#zencash	$zencash	@zencash
+qash	#qash	$qash	@qash
+mana	#mana	$mana	@mana	decentraland	#decentraland	$decentraland	@decentraland
+ark	#ark	$ark	@ark
+neo	#neo	$neo	@neo
+xvg	#xvg	$xvg	@xvg	verge	#verge	$verge	@verge
+pay	#pay	$pay	@pay	tenx	#tenx	$tenx	@tenx
+dcn	#dcn	$dcn	@dcn	dentacoin	#dentacoin	$dentacoin	@dentacoin
+fun	#fun	$fun	@fun	funfair	#funfair	$funfair	@funfair
+elf	#elf	$elf	@elf	aelf	#aelf	$aelf	@aelf
+xlm	#xlm	$xlm	@xlm	stellar	#stellar	$stellar	@stellar
+ltc	#ltc	$ltc	@ltc	litecoin	#litecoin	$litecoin	@litecoin
+xrp	#xrp	$xrp	@xrp	ripple	#ripple	$ripple	@ripple
+kcs	#kcs	$kcs	@kcs	kucoin shares	#kucoinshares	$kucoinshares	@kucoinshares	kucoin-shares	#kucoin-shares	$kucoin-shares	@kucoin-shares
+hc	#hc	$hc	@hc	hypercash	#hypercash	$hypercash	@hypercash
+rdd	#rdd	$rdd	@rdd	reddcoin	#reddcoin	$reddcoin	@reddcoin
+zrx	#zrx	$zrx	@zrx	0x	#0x	$0x	@0x
+tusd	#tusd	$tusd	@tusd	trueusd	#trueusd	$trueusd	@trueusd
+aion	#aion	$aion	@aion
+ada	#ada	$ada	@ada	cardano	#cardano	$cardano	@cardano
+ht	#ht	$ht	@ht	huobi token	#huobitoken	$huobitoken	@huobitoken	huobi-token	#huobi-token	$huobi-token	@huobi-token
+trx	#trx	$trx	@trx	tron	#tron	$tron	@tron
+omg	#omg	$omg	@omg	omisego	#omisego	$omisego	@omisego
+icx	#icx	$icx	@icx	icon	#icon	$icon	@icon
+mith	#mith	$mith	@mith	mithril	#mithril	$mithril	@mithril
+drop	#drop	$drop	@drop	dropil	#dropil	$dropil	@dropil
+aoa	#aoa	$aoa	@aoa	aurora	#aurora	$aurora	@aurora
+ae	#ae	$ae	@ae	aeternity	#aeternity	$aeternity	@aeternity
+dash	#dash	$dash	@dash
+ardr	#ardr	$ardr	@ardr	ardor	#ardor	$ardor	@ardor
+miota	#miota	$miota	@miota	iota	#iota	$iota	@iota
+hot	#hot	$hot	@hot	holo	#holo	$holo	@holo
+dgb	#dgb	$dgb	@dgb	digibyte	#digibyte	$digibyte	@digibyte
+cnx	#cnx	$cnx	@cnx	cryptonex	#cryptonex	$cryptonex	@cryptonex
+bnb	#bnb	$bnb	@bnb	binance coin	#binancecoin	$binancecoin	@binancecoin	binance-coin	#binance-coin	$binance-coin	@binance-coin
+doge	#doge	$doge	@doge	dogecoin	#dogecoin	$dogecoin	@dogecoin
+strat	#strat	$strat	@strat	stratis	#stratis	$stratis	@stratis
+eos	#eos	$eos	@eos
+bch	#bch	$bch	@bch	bitcoin cash	#bitcoincash	$bitcoincash	@bitcoincash	bitcoin-cash	#bitcoin-cash	$bitcoin-cash	@bitcoin-cash
+moac	#moac	$moac	@moac
+dcr	#dcr	$dcr	@dcr	decred	#decred	$decred	@decred
+xtz	#xtz	$xtz	@xtz	tezos	#tezos	$tezos	@tezos
+wan	#wan	$wan	@wan	wanchain	#wanchain	$wanchain	@wanchain
+link	#link	$link	@link	chainlink	#chainlink	$chainlink	@chainlink
+ppt	#ppt	$ppt	@ppt	populous	#populous	$populous	@populous
+snt	#snt	$snt	@snt	status	#status	$status	@status
+nano	#nano	$nano	@nano
+waves	#waves	$waves	@waves
+bat	#bat	$bat	@bat	basic attention token	#basicattentiontoken	$basicattentiontoken	@basicattentiontoken	basic-attention-token	#basic-attention-token	$basic-attention-token	@basic-attention-token
+rep	#rep	$rep	@rep	augur	#augur	$augur	@augur
+kmd	#kmd	$kmd	@kmd	komodo	#komodo	$komodo	@komodo
+zil	#zil	$zil	@zil	zilliqa	#zilliqa	$zilliqa	@zilliqa
+gnt	#gnt	$gnt	@gnt	golem	#golem	$golem	@golem	golem-network-tokens	#golem-network-tokens	$golem-network-tokens	@golem-network-tokens
+bts	#bts	$bts	@bts	bitshares	#bitshares	$bitshares	@bitshares
+sc	#sc	$sc	@sc	siacoin	#siacoin	$siacoin	@siacoin
+steem	#steem	$steem	@steem
+maid	#maid	$maid	@maid	maidsafecoin	#maidsafecoin	$maidsafecoin	@maidsafecoin
+vet	#vet	$vet	@vet	vechain	#vechain	$vechain	@vechain
+etc	#etc	$etc	@etc	ethereum classic	#ethereumclassic	$ethereumclassic	@ethereumclassic	ethereum-classic	#ethereum-classic	$ethereum-classic	@ethereum-classic
+iost	#iost	$iost	@iost	iostoken	#iostoken	$iostoken	@iostoken
+wtc	#wtc	$wtc	@wtc	waltonchain	#waltonchain	$waltonchain	@waltonchain
+zec	#zec	$zec	@zec	zcash	#zcash	$zcash	@zcash
+rhoc	#rhoc	$rhoc	@rhoc	rchain	#rchain	$rchain	@rchain
+mkr	#mkr	$mkr	@mkr	maker	#maker	$maker	@maker
+qtum	#qtum	$qtum	@qtum
+btg	#btg	$btg	@btg	bitcoin gold	#bitcoingold	$bitcoingold	@bitcoingold	bitcoin-gold	#bitcoin-gold	$bitcoin-gold	@bitcoin-gold
+npxs	#npxs	$npxs	@npxs	pundi x	#pundix	$pundix	@pundix	pundi-x	#pundi-x	$pundi-x	@pundi-x
+lsk	#lsk	$lsk	@lsk	lisk	#lisk	$lisk	@lisk
+etp	#etp	$etp	@etp	metaverse etp	#metaverseetp	$metaverseetp	@metaverseetp	metaverse	#metaverse	$metaverse	@metaverse
+xem	#xem	$xem	@xem	nem	#nem	$nem	@nem
+ont	#ont	$ont	@ont	ontology	#ontology	$ontology	@ontology
+bcd	#bcd	$bcd	@bcd	bitcoin diamond	#bitcoindiamond	$bitcoindiamond	@bitcoindiamond	bitcoin-diamond	#bitcoin-diamond	$bitcoin-diamond	@bitcoin-diamond
+xmr	#xmr	$xmr	@xmr	monero	#monero	$monero	@monero
+bcn	#bcn	$bcn	@bcn	bytecoin	#bytecoin	$bytecoin	@bytecoin	bytecoin-bcn	#bytecoin-bcn	$bytecoin-bcn	@bytecoin-bcn
+usdt	#usdt	$usdt	@usdt	tether	#tether	$tether	@tether
+btm	#btm	$btm	@btm	bytom	#bytom	$bytom	@bytom
